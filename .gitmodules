@@ -1,3 +1,6 @@
 [submodule "Avigittutorial_new"]
 	path = Avigittutorial_new
 	url = https://github.com/adoiphode92/Avigittutorial_new.git
+[submodule "Avigittutorial"]
+	path = Avigittutorial
+	url = https://github.com/adoiphode92/Avigittutorial.git
